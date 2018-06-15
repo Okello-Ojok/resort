@@ -35,3 +35,10 @@ img {
   width: 300px;
   height: 300px;
 }
+footer{
+  background-color: gray;
+  padding: 7px 30px;
+}
+footer p{
+  padding:0 30px;
+}
