@@ -33,3 +33,10 @@ p {
 .bod {
   padding: 0 30px;
 }
+footer{
+  background-color: gray;
+  padding: 7px 30px;
+}
+footer p{
+  padding:0 30px;
+}
